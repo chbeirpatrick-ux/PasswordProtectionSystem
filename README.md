@@ -235,7 +235,6 @@ A few reasons I went with C# instead of Python or JavaScript:
 
 ---
 
-## Rules from the assignment (all followed)
 
 - ✅ Used an existing hashing library (`System.Security.Cryptography.SHA256`)
 - ✅ Did not write my own hash function
